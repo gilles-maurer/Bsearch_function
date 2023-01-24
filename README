@@ -1,0 +1,19 @@
+Bsearch function 
+
+by Gilles Maurer 
+
+C project for the course of Programming and Data Structure in Politechnika Lodzka (Poland)
+
+Developed on Linux
+
+----------------------------------------------
+
+Implémentation complète la fonction Bsearch disponible dans les librairies c classiques 
+Quelques test sont également disponibles pour vérifier le fonctionnement de la fonction
+Les tests sont implémenté pour les types int, float et struct Person mais la fonction bsearch peut marché avec n'importe quel type.
+
+Implementation of the Bsearch function available in the c standard libraries
+Some tests are also available to check the operation of the function
+The tests are implemented for the int, float and struct Person types but the bsearch function can work with any type.
+
+----------------------------------------------
